@@ -24,3 +24,7 @@ git tag -d tag_name
 ```
 git push origin --delete tag_name
 ```
+
+## An Image
+
+![This is an image](/image.jpg)
